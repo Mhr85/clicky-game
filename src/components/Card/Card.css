@@ -1,0 +1,7 @@
+.Card > .img-container > img{
+    border-radius: 8px;
+    width: 200px;
+    height: 200px;
+    margin: 2rem;
+    position: relative;
+}
